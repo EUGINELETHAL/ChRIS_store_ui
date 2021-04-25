@@ -7,7 +7,7 @@ import WelcomeDevelopers from './components/WelcomeDevelopers/WelcomeDevelopers'
 const Welcome = () => (
   <div>
     <WelcomeCTA />
-    <WelcomeCategories />
+    {/*<WelcomeCategories />*/}
     <WelcomeChRIS />
     <WelcomeDevelopers />
   </div>
